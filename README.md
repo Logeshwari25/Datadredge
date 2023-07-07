@@ -1,5 +1,8 @@
 Datadredge
 License
+Python
+Jupyter Notebook
+HTML
 
 Description
 Datadredge is a simple data dredging tool built using HTML, Python, and Jupyter Notebook. It provides a convenient way to extract, manipulate, and analyze data from various sources.
@@ -26,7 +29,7 @@ Change into the project directory:
 bash
 Copy code
 cd Datadredge
-Install the required dependencies. It is recommended to use a virtual environment for this:
+Install the required dependencies. Make sure you have Python 3.7+ installed. It is recommended to use a virtual environment for this:
 
 bash
 Copy code
@@ -52,6 +55,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 Acknowledgments
 We would like to thank the open-source community for their contributions and the tools that made this project possible.
-
-Author
-Logeshwari k
